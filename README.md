@@ -14,7 +14,7 @@
  ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%7C+Data+Scientist;Industrial+%26+Financial+Engineer;Building+at+the+intersection+of+AI+%26+Systems;Morocco+%F0%9F%87%B2%F0%9F%87%A6+%E2%86%92+WorldQuant+University" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%7C+Data+Scientist;Industrial+%26+Engineer;Building+at+the+intersection+of+AI+%26+Systems;Morocco+%F0%9F%87%B2%F0%9F%87%A6+%E2%86%92+WorldQuant+University" alt="Typing SVG" />
 
 <br/>
 
