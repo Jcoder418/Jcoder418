@@ -18,11 +18,11 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=jcoder418&color=00FFB3&style=flat-square&label=PROFILE+VIEWS)](https://github.com/jcoder418)
+[![Profile Views](https://komarev.com/ghpvc/?username=jcoder418&color=00FFB3&style=flat-square&label=PROFILE+VIEWS)](https://github.com/moticob)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-ed-derouach/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/jcoder418)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/moticob)
 
 </div>
 
