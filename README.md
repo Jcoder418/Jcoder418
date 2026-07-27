@@ -94,7 +94,6 @@ class Oussama:
 | 📊 **MorningBrief** | Portable Windows 11 daily dashboard `.exe` | Python · Tkinter · PyInstaller |
 | ⌨️ **KeyIndicator** | Taskbar keyboard LED indicator for laptops without LEDs | Python · pystray · pywin32 |
 | 🧠 **MRI GAN** | Synthetic brain MRI generation using Vanilla GAN | PyTorch · medigan |
-| 📈 **FinMarket Posts** | Financial market content around Fed policy & yield curves | Bloomberg · FRED |
 
 ---
 
