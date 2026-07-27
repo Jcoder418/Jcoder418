@@ -102,7 +102,7 @@ class Oussama:
 <!--                    GITHUB STATS                        -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## `> git log --stats`
+## `> git log --stat`
 
 <div align="center">
 
@@ -119,7 +119,7 @@ class Oussama:
 ---
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                    TROPHIES                            -->
+<!--                    TROPHIES                        -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## `> achievements --display`
@@ -137,4 +137,3 @@ class Oussama:
 `// Always building. Always learning.`
 
 </div>
-
