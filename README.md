@@ -50,9 +50,6 @@ class Oussama:
         "JavaScript",
         "TypeScript",
         "SQL",
-        "French",
-        "English",
-        "Arabic",
     ]
 ```
 
